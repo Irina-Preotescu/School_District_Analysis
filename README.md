@@ -20,7 +20,7 @@ Once the scores of the ninth graders from Thomas High School were removed, the r
 ### Metrics
 * a slight increase in reading scores for Medium-sized schools (1,000-2,000 students)
 * a small decrease in the percentage of overall passing grades for Charter schools, but no change for District schools
-* no changes in the per-student school spending metric
+* no significant changes in the per-student school spending metric
 * all math and reading scores for ninth grade students from Thomas High School are listed as NaN, but by-grade scores have not changed oterhwise
 
 ## Summary
