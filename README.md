@@ -29,6 +29,7 @@ As the images below show, the top five schools based on overall passing percenta
 ![Screen Shot 2021-09-13 at 3.58.24 AM.png](https://github.com/Irina-Preotescu/School_District_Analysis/blob/1f82e2a5522b19138860aa2f2c84128c271138fe/Screen%20Shot%202021-09-13%20at%203.58.24%20AM.png)
 
 
+
 The five lowest scoring schools on the same metric are: Johnson High School, Hernandez High School, Huang High School, Figueroa High School, and Rodriguez High School.
 
 ![Screen Shot 2021-09-13 at 3.58.55 AM.png](https://github.com/Irina-Preotescu/School_District_Analysis/blob/b302c5c62cf5383ea699b4fc00241783b3777b7e/Screen%20Shot%202021-09-13%20at%203.58.55%20AM.png)
