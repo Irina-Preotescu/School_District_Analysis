@@ -25,7 +25,8 @@ Once the scores of the ninth graders from Thomas High School were removed, the r
 
 ## Summary
 As the images below show, the top five schools based on overall passing percentage are: Cabrera High School, Thomas High School, Griffin High School, Wilson High School, and Pena High School.
-![Top5](Screen Shot 2021-09-13 at 3.58.24 AM.png)
+
+![Screen Shot 2021-09-13 at 3.58.24 AM.png](https://github.com/Irina-Preotescu/School_District_Analysis/blob/1f82e2a5522b19138860aa2f2c84128c271138fe/Screen%20Shot%202021-09-13%20at%203.58.24%20AM.png)
 
 
 The five lowest scoring schools on the same metric are: Johnson High School, Hernandez High School, Huang High School, Figueroa High School, and Rodriguez High School.
