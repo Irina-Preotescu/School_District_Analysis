@@ -31,6 +31,9 @@ As the images below show, the top five schools based on overall passing percenta
 
 The five lowest scoring schools on the same metric are: Johnson High School, Hernandez High School, Huang High School, Figueroa High School, and Rodriguez High School.
 
+![Screen Shot 2021-09-13 at 3.58.55 AM.png](https://github.com/Irina-Preotescu/School_District_Analysis/blob/b302c5c62cf5383ea699b4fc00241783b3777b7e/Screen%20Shot%202021-09-13%20at%203.58.55%20AM.png)
+
+## Conclusion
 As a result of the analysis, the changes recorded after reading and math scores have been replaced are minimal and do not suggest a significant difference in the overall analysis process. However, four slight changes are visible:
 1. a decrease in the overall passing grade percentage for students at Thomas High School
 2. a decrease in overall passing grade percentage for students in Charter schools
